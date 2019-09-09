@@ -6,7 +6,7 @@ For more advanced JSON decoding options I encourage you to look into [quicktype]
 
 ## Installation
 ```bash
-npm install swag
+npm install @roundfly/swag
 ```
 ## Usage
 ```bash
