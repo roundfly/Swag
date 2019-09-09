@@ -11,8 +11,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "cli"
+    "cli, swagger, json, javascript, swift"
   ],
+  "repository": "roundfly/Swag",
   "author": "roundfly",
   "license": "MIT",
   "dependencies": {
