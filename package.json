@@ -1,6 +1,6 @@
 {
   "name": "@roundfly/swag",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A thin CLI wrapper over quicktype that deserializes JSON to model objects from Swagger",
   "main": "index.js",
   "bin": {
