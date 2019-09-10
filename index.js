@@ -15,7 +15,7 @@ const main = () => {
     if (validator.isEmptyObject(obj)) {
         return;
     }
-    const {url, lang} = obj;
+    const { url, lang } = obj;
     https.get(url, (res) => {
         let data = ``;
         res.on(`data`, (chunk) => {
