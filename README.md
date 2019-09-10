@@ -13,3 +13,10 @@ npm install @roundfly/swag
 swag https://my-awesome-api.com/swagger/v1/swagger.json --lang js
 ```
 Inputing the above in a shell outputs a models.js file with all your Swagger models deserialized.
+
+## TODO
+
+⋅⋅* Add unit tests.
+⋅⋅* Improve error output to stderr.
+⋅⋅* Add more language support.
+⋅⋅* Add a CHANGELOG.md
