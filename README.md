@@ -1,4 +1,4 @@
-## SWAG
+## :sunglasses: SWAG
 
 Swag is a CLI tool that when given a Swagger URL which points to JSON deserializes the JSON and filters out redundant key:value pairs, this is then passed to [quicktype](https://quicktype.io) which outputs code in one of its supported languages. If no language is passed as an argument Swag then defaults to Swift.
 
